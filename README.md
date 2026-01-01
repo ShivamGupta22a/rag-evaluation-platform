@@ -4,7 +4,13 @@ A production-ready system for evaluating and monitoring Retrieval-Augmented Gene
 
 🌐 **[Live Demo on Streamlit Cloud](https://rag-evaluation-platform.streamlit.app)** 
 
-[![CI/CD](https://github.com/YOUR_USERNAME/rag-evaluation-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rag-evaluation-platform/actions)
+[![CI/CD](https://github.com/[![CI/CD](https://github.com/ShivamGupta22a/rag-evaluation-platform/actions/workflows/ci.yml/badge.svg)](
+https://github.com/ShivamGupta22a/rag-evaluation-platform/actions
+)
+/rag-evaluation-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/[![CI/CD](https://github.com/ShivamGupta22a/rag-evaluation-platform/actions/workflows/ci.yml/badge.svg)](
+https://github.com/ShivamGupta22a/rag-evaluation-platform/actions
+)
+/rag-evaluation-platform/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
