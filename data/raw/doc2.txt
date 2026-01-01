@@ -1,0 +1,2 @@
+FAISS is a library developed by Meta for efficient similarity search over dense vector embeddings.
+It is commonly used in retrieval systems.
